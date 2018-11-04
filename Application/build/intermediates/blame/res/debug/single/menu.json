@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "J:\\Academics\\project\\Android project\\BluetoothApp\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "J:\\Academics\\project\\Android project\\BluetoothApp\\Application\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "J:\\Academics\\project\\Android project\\BluetoothApp\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\bluetooth_chat.xml",
+        "source": "J:\\Academics\\project\\Android project\\BluetoothApp\\Application\\src\\main\\res\\menu\\bluetooth_chat.xml"
+    },
+    {
+        "merged": "J:\\Academics\\project\\Android project\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\bluetooth_chat.xml",
+        "source": "J:\\Academics\\project\\Android project\\BluetoothChat\\Application\\src\\main\\res\\menu\\bluetooth_chat.xml"
+    },
+    {
+        "merged": "J:\\Academics\\project\\Android project\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "J:\\Academics\\project\\Android project\\BluetoothChat\\Application\\src\\main\\res\\menu\\main.xml"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "J:\\Academics\\project\\Android project\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "J:\\Academics\\project\\Android project\\BluetoothChat\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "J:\\Academics\\project\\Android project\\BluetoothApp\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "J:\\Academics\\project\\Android project\\BluetoothApp\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "J:\\Academics\\project\\Android project\\BluetoothApp\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "J:\\Academics\\project\\Android project\\BluetoothApp\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "J:\\Academics\\project\\Android project\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "J:\\Academics\\project\\Android project\\BluetoothChat\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "J:\\Academics\\project\\Android project\\BluetoothApp\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "J:\\Academics\\project\\Android project\\BluetoothApp\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "J:\\Academics\\project\\Android project\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "J:\\Academics\\project\\Android project\\BluetoothChat\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "J:\\Academics\\project\\Android project\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "J:\\Academics\\project\\Android project\\BluetoothChat\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "J:\\Academics\\project\\Android project\\BluetoothApp\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "J:\\Academics\\project\\Android project\\BluetoothApp\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
